@@ -1,0 +1,6 @@
+.video-media{
+    width: 500px;
+}
+.video-media iframe{
+    width:100%;
+}
