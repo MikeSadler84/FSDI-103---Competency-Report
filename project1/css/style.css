@@ -32,6 +32,17 @@ img{
     height: 300px;
 
 }
+@media(min-width: 768px){
+    .size-wrap{
+        max-width: 1920px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    body{
+        background-color: black;
+    }
+
+}
 /* History section */
 
 
@@ -88,6 +99,9 @@ img{
     text-align: center;
     margin-left: .5rem;
 
+}
+.history-title{
+    background-color: white;
 }
 .history-text p:hover{
     color:#8a8a8a8a;
